@@ -1,0 +1,14 @@
+layout_spectrum: 0.8021277
+typography_spectrum: 0.8659574
+color:
+  lightness: 0.2638298
+  brandStrength: 0.9569985
+  saturation: 0.6236408
+  rhythmicContrast: 0.6841052
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: Fox Approach
