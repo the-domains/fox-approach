@@ -1,14 +1,26 @@
 layout_spectrum: 0.8021277
-typography_spectrum: 0.8659574
+name: Fox Approach
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.2638298
   brandStrength: 0.9569985
-  saturation: 0.6236408
-  rhythmicContrast: 0.6841052
+  lightness: 0.1808511
+  saturation: 0.3446808
+  rhythmicContrast: 0.8042553
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-name: Fox Approach
+typography_spectrum: 0.8659574
