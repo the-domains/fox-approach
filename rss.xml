@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Fox Approach]]></title>
         <description><![CDATA[Fox Approach]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fox-approach/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 03:10:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 01 Mar 2016 03:15:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fox-approach/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Testing the new site out...</p>]]></description>
-            <link>undefinedbd733dd5-21b5-4178-8280-cde23d451c18/index.html</link>
+            <title><![CDATA[Testing the new site out...]]></title>
+            <description><![CDATA[<article><h1>Testing the new site out...</h1><p>It seems like it's been forever since I invested $90 bucks in the Grid. I was finally able to get on the beta and I'm quite skeptical. I don't have nearly as much freedom </p></article>]]></description>
+            <link>https://thegrid.ai/fox-approach/bd733dd5-21b5-4178-8280-cde23d451c18/index.html</link>
             <guid isPermaLink="false">bd733dd5-21b5-4178-8280-cde23d451c18</guid>
-            <pubDate>Tue, 01 Mar 2016 03:10:36 GMT</pubDate>
+            <pubDate>Tue, 01 Mar 2016 03:15:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
