@@ -1,5 +1,7 @@
-layout_spectrum: 0.8021277
 name: Fox Approach
+favicon: null
+layout_spectrum: 0.70727
+typography_spectrum: 0.8659574
 collections:
   - index:
       navigable: true
@@ -12,15 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.9569985
-  lightness: 0.1808511
-  saturation: 0.3446808
-  rhythmicContrast: 0.8042553
   brandColors:
     - '#ADD7F6'
     - '#87BFFF'
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-typography_spectrum: 0.8659574
+  brandStrength: 0.5
+  lightness: 0.1808511
+  saturation: 0.625
+  rhythmicContrast: 0.8042553
+purpose: []
