@@ -1,7 +1,7 @@
 name: Fox Approach
 favicon: null
-layout_spectrum: 0.70727
-typography_spectrum: 0.89035
+layout_spectrum: 0.3198
+typography_spectrum: 0.88944
 collections:
   - index:
       navigable: true
