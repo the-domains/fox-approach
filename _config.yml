@@ -1,7 +1,18 @@
+layout_spectrum: 0.304875367321074
+typography_spectrum: 0.8192649185657501
+color:
+  brandColors:
+    - '#efefe5'
+    - '#b5d3c7'
+    - '#2d2a25'
+    - '#96947d'
+    - '#6c6956'
+  brandStrength: 0.5
+  lightness: 0.1808511
+  saturation: 0.625
+  rhythmicContrast: 0.8042553
 name: Fox Approach
 favicon: null
-layout_spectrum: 0.5998
-typography_spectrum: 0.88944
 collections:
   - index:
       navigable: true
@@ -27,15 +38,4 @@ opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#efefe5'
-    - '#b5d3c7'
-    - '#2d2a25'
-    - '#96947d'
-    - '#6c6956'
-  brandStrength: 0.5
-  lightness: 0.1808511
-  saturation: 0.625
-  rhythmicContrast: 0.8042553
 purpose: []
